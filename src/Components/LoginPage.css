@@ -1,0 +1,45 @@
+.mainCont{
+    margin-top: -10px;
+    height: 695px;
+    width: 100%;
+    background-color: gray;
+}
+
+.container {
+    display: flex;
+    height: 640px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 50px;
+  }
+  
+  .login-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: -50px;
+    width: 500px;
+  }
+  
+  .login {
+    font-weight: 800;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .loginBtn {
+    width: 250px;
+    margin-top: 20px;
+  }
+  
+  .loginUser {
+    width: 250px;
+    margin-bottom: 20px;
+  }
+  
+  .loginBG {
+    height: 550px;
+    margin-top: 50px;
+    margin-left: 80px;
+  }

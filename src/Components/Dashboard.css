@@ -1,0 +1,67 @@
+.navBtn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navBtn-2{
+    margin-left: -850px;
+}
+
+#darkBtn {
+    margin-top: -80px;
+    margin-left: 1380px;  
+}
+  
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .dark-mode-btn {
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+  
+  /* Additional styles for buttons, tables, etc. */
+  .dark-mode .btn {
+    background-color: #555;
+    color: #fff;
+  }
+  
+  .dark-mode .table {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .dark-mode .form-control {
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+   */
+
+   /* File path: src/Dashboard.css */
+
+/* Add these styles for dark mode */
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode-input {
+  background-color: #555;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.dark-mode-switch {
+  background-color: #444;
+}
+
+.dark-mode-btn {
+  background-color: #555;
+  color: #fff;
+  border: 1px solid #fff;
+}
